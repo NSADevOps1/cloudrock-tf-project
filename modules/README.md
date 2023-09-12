@@ -1,7 +1,7 @@
 
 
 
-Use the following commands to plan and apply writtend code to pull values from dev.tfvars files.
+Use the following commands to plan and apply written code to pull values from dev.tfvars files.
 
 terraform plan -var-file="dev.tfvars"
 
